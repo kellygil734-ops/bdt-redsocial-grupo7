@@ -3,7 +3,7 @@
 
 ## Nombre del proyecto
 
-Modelo conceptual de base de datos para una red social estudiantil.
+Modelo Lógico y Normalización
 
 ## Integrantes
 - Juan Sebastian Rojas Ramirez
